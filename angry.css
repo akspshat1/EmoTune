@@ -1,0 +1,43 @@
+
+div.appview-container.st-emotion-cache-1wrcr25.ea3mdgi9{
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom right, #77f16e, #e5bd0e);
+    color: #ffffff; /* Text color */
+}
+div.st-emotion-cache-1n76uvr.e1f1d6gn2{
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Transparent background with opacity */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5); /* Box shadow */
+}
+div.element-container.st-emotion-cache-1aege4m.e1f1d6gn4 {
+    max-width: 600px; /* Decreased maximum width */
+    /* Add any additional styling as needed */
+}
+div.element-container.st-emotion-cache-1aege4m.e1f1d6gn4 {
+    max-width: 600px; /* Decreased maximum width */
+    /* Add any additional styling as needed */
+}
+div.st-emotion-cache-1n76uvr.e1f1d6gn2{
+
+    width: 750px;
+}
+div.stAudio{
+    max-width: 600px; 
+}
+.emotion {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.song {
+    text-align: center;
+    margin-top: 20px;
+}
+.warning {
+    text-align: center;
+}
+

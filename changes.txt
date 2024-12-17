@@ -1,0 +1,1 @@
+changed the print statement of from the number of faces to printing the emotion.

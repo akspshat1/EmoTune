@@ -1,0 +1,25 @@
+div.appview-container.st-emotion-cache-1wrcr25.ea3mdgi9 {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom right, #ffd700, #ffb6c1);
+    transition: background-color 2s ease; /* Happy gradient background */
+    color: #333333; /* Text color - dark grey for better readability */
+}
+
+div.st-emotion-cache-1n76uvr.e1f1d6gn2 {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+    transition: background-color 2s ease; /* Lighter box shadow */
+}
+
+div.st-emotion-cache-zt5igj.e1nzilvr4{
+    color: aqua;
+
+}
+div.st-emotion-cache-1n76uvr.e1f1d6gn2{
+
+    width: 750px;
+}
