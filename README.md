@@ -1,6 +1,4 @@
-Certainly! Here's the entire content in the same format, ready to be copied directly into your GitHub repository's `README.md` file:
 
-```markdown
 # Emotion-Based Music Player (EMO-TUNE)
 
 ## Overview
