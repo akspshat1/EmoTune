@@ -22,6 +22,7 @@ emotion_folders = {
     "calm": r"songs\calm",
 }
 
+
 emotion_css_files = {
         "happy": "happy.css",
         "sad": "sad.css",
