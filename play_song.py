@@ -4,7 +4,7 @@ import random
 import streamlit as st
 
 emotion_folders = {
-    "angry": "songs\calm",
+    "angry": "songs\angry",
     "happy": "songs\happy",
     "surprise": "songs\surprise",
     "sad": "songs\sad",
