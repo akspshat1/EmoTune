@@ -15,7 +15,7 @@ model = RMN()
 
 
 emotion_folders = {
-    "angry": r"songs\calm",
+    "angry": r"songs\angry",
     "happy": r"songs\happy",
     "surprise": r"songs\surprise",
     "sad": r"songs\sad",
