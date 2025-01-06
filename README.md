@@ -60,6 +60,3 @@ Let’s collaborate and make music listening more immersive and personalized!
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can now copy and paste this directly into your `README.md` file in GitHub. Let me know if you'd like further adjustments!
