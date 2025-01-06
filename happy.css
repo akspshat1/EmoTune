@@ -1,25 +1,25 @@
 div.appview-container.st-emotion-cache-1wrcr25.ea3mdgi9 {
-    font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom right, #ffd700, #ffb6c1);
-    transition: background-color 2s ease; /* Happy gradient background */
-    color: #333333; /* Text color - dark grey for better readability */
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Playful font for a cheerful tone */
+    background: linear-gradient(to bottom right, #ffe066, #ff6f91); /* Bright and warm gradient */
+    transition: background-color 1.5s ease; /* Faster transition for an energetic feel */
+    color: #444444; /* Slightly softer dark text for warmth */
 }
 
 div.st-emotion-cache-1n76uvr.e1f1d6gn2 {
-    max-width: 1000px;
+    max-width: 950px; /* Slightly reduced for a cozy effect */
     margin: auto;
-    padding: 20px;
-    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent white background */
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
-    transition: background-color 2s ease; /* Lighter box shadow */
+    padding: 25px; /* Comfortable padding */
+    background-color: rgba(255, 255, 255, 0.9); /* Light and airy background */
+    border-radius: 15px; /* More rounded corners for a friendly look */
+    box-shadow: 0px 4px 15px 0px rgba(255, 204, 0, 0.5); /* Warm yellow glow for happiness */
+    transition: background-color 1.5s ease; /* Smooth background transition */
 }
 
-div.st-emotion-cache-zt5igj.e1nzilvr4{
-    color: aqua;
-
+div.st-emotion-cache-zt5igj.e1nzilvr4 {
+    color: #ff69b4; /* Vibrant pink for accents to match a happy vibe */
+    font-weight: bold; /* Make accent text stand out */
 }
-div.st-emotion-cache-1n76uvr.e1f1d6gn2{
 
-    width: 750px;
+div.st-emotion-cache-1n76uvr.e1f1d6gn2 {
+    width: 800px; /* Adjusted for balance */
 }
