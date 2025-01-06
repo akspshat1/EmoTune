@@ -49,7 +49,7 @@ For any issues, suggestions, or inquiries, feel free to reach out to me at [b22e
 
 ## Contributing
 
-We encourage contributions to improve EMO-TUNE! To contribute:
+I would love your contributions to improve EMO-TUNE! To contribute:
 
 1. Fork the repository.
 2. Create a new branch and make your changes.
