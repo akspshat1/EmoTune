@@ -45,7 +45,7 @@
 
 ## Support
 
-For any issues, suggestions, or inquiries, feel free to reach out to our support team at [b22ee087@iitj.ac.in](mailto:b22ee087@iitj.ac.in). We’re happy to assist!
+For any issues, suggestions, or inquiries, feel free to reach out to me at [b22ee087@iitj.ac.in](mailto:b22ee087@iitj.ac.in). I'll be happy to assist!
 
 ## Contributing
 
