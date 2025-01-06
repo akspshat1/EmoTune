@@ -1,20 +1,25 @@
 div.appview-container.st-emotion-cache-1wrcr25.ea3mdgi9 {
-    font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom right, #b0c4de, #a9a9a9);
-    transition: background-color 1s ease; /* Sad gradient background */
-    color: #333333; /* Text color - dark grey for better readability */
+    font-family: 'Times New Roman', serif; /* Traditional serif font for a solemn tone */
+    background: linear-gradient(to bottom right, #708090, #2f4f4f); /* Muted, cool gradient with gray and dark slate */
+    transition: background-color 1.5s ease; /* Smooth and slow transition for a reflective feel */
+    color: #2c2c2c; /* Darker gray for text to match the mood */
 }
 
 div.st-emotion-cache-1n76uvr.e1f1d6gn2 {
-    max-width: 1000px;
+    max-width: 900px; /* Slightly reduced width for a more contained, introspective layout */
     margin: auto;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.8); 
-    transition: background-color 1s ease;/* Slightly transparent white background */
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2); /* Lighter box shadow */
+    background-color: rgba(240, 240, 240, 0.85); /* Soft gray background for a muted effect */
+    border-radius: 8px; /* Slightly less rounded corners for a subdued look */
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.3); /* Softer shadow for a grounded feel */
+    transition: background-color 1.5s ease; /* Smooth transition for mood shifts */
 }
-div.st-emotion-cache-1n76uvr.e1f1d6gn2{
 
-    width: 750px;
+div.st-emotion-cache-zt5igj.e1nzilvr4 {
+    color: #4682b4; /* Steel blue for accents, conveying a melancholic tone */
+    font-style: italic; /* Italics to emphasize a reflective emotion */
+}
+
+div.st-emotion-cache-1n76uvr.e1f1d6gn2 {
+    width: 750px; /* Retained width for consistency */
 }
